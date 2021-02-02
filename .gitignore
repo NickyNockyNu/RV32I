@@ -6,4 +6,7 @@
 **/*.dproj
 **/*.local
 **/*.identcache
+**/*.exe
+**/*.map
+
 
